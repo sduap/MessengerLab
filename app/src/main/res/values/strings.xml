@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MessengerLab</string>
+    <string name="hint">Message</string>
+    <string name="send">SEND</string>
+</resources>
